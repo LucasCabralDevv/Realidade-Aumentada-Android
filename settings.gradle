@@ -1,0 +1,2 @@
+rootProject.name = "Realidade Aumentada Android"
+include ':app'
